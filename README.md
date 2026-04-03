@@ -33,3 +33,4 @@ Notebook içerisinde sırasıyla aşağıdaki veri temizleme ve dönüştürme a
    pip install pandas numpy matplotlib seaborn
    
    
+   
