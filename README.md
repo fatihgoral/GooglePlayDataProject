@@ -31,3 +31,4 @@ Notebook içerisinde sırasıyla aşağıdaki veri temizleme ve dönüştürme a
 1. Kodu çalıştırmak için proje dizininde bir sanal ortam oluşturun veya gerekli kütüphaneleri kurun:
    ```bash
    pip install pandas numpy matplotlib seaborn
+   
